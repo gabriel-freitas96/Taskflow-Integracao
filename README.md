@@ -727,7 +727,7 @@ chore: atualizações de ferramentas/configurações
 
 - 💼 **LinkedIn:** [linkedin.com/in/gabriellacerda22](https://www.linkedin.com/in/gabriellacerda22)
 - 🐙 **GitHub:** [github.com/gabriel-freitas96](https://github.com/gabriel-freitas96)
-- 💬 **Issues:** [Abrir issue no GitHub](../../issues)
+
 
 ---
 
