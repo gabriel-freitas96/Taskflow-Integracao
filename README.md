@@ -45,8 +45,10 @@ Sistema de gerenciamento de projetos e tarefas com integração de IA assistente
 
 ## 👥 Integrantes do Grupo
 
-- [Adicione os nomes dos integrantes aqui]
-- 
+- [Gabriel Lacerda]
+- [Miguel Viana]
+- [Henry Galdino]
+- [Erick Monteiro]
 ---
 
 ## 🛠️ Tecnologias Utilizadas
